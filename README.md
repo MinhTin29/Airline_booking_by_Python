@@ -12,4 +12,5 @@ Potential analyses and applications include:
 5) Investigating the influence of booking channels on customer behavior.
 6) Predicting the likelihood of a successful holiday booking based on customer characteristics.
 7) With its comprehensive range of attributes, this dataset presents an excellent opportunity for data scientists, researchers, and analysts to gain insights into customer behavior within the airline industry.
+
 Source: British Airways
