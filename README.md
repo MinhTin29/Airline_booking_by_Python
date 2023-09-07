@@ -5,11 +5,11 @@ This dataset provides comprehensive information about customers' preferences and
 
 Potential analyses and applications include:
 
-Identifying factors influencing successful holiday bookings and improving conversion rates.
-Evaluating the impact of different services (e.g., in-flight meals, extra baggage allowance) on customers' booking decisions.
-Assessing the relationship between booking lead time and customer choices.
-Analyzing the popularity of various routes and flight schedules.
-Investigating the influence of booking channels on customer behavior.
-Predicting the likelihood of a successful holiday booking based on customer characteristics.
-With its comprehensive range of attributes, this dataset presents an excellent opportunity for data scientists, researchers, and analysts to gain insights into customer behavior within the airline industry.
+1) Identifying factors influencing successful holiday bookings and improving conversion rates.
+2) Evaluating the impact of different services (e.g., in-flight meals, extra baggage allowance) on customers' booking decisions.
+3) Assessing the relationship between booking lead time and customer choices.
+4) Analyzing the popularity of various routes and flight schedules.
+5) Investigating the influence of booking channels on customer behavior.
+6) Predicting the likelihood of a successful holiday booking based on customer characteristics.
+7) With its comprehensive range of attributes, this dataset presents an excellent opportunity for data scientists, researchers, and analysts to gain insights into customer behavior within the airline industry.
 Source: British Airways
